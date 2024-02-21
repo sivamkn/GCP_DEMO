@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GCP_DEMO.props" />
+</Project>
